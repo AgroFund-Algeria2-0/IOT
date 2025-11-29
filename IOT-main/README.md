@@ -84,7 +84,3 @@ The system uses threshold-based logic to activate irrigation:
 - Humidity threshold: Below 40%
 - Each zone operates independently, allowing for microclimate management
 - Remote monitoring via cloud dashboard provides real-time data access
-
-## Conclusion
-
-This smart irrigation system represents a practical IoT solution for the AgroFund DZ platform, providing both investors and farmers with valuable transparency, efficiency, and cost savings. By enabling remote monitoring and automated control, it addresses key concerns in agricultural investment while maintaining a low cost structure that makes it accessible to farmers at all levels.
